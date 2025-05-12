@@ -40,8 +40,11 @@ importers:
         specifier: ^1.5.0
         version: 1.5.0
       nodemon:
-        specifier: ^2.0.20
-        version: 2.0.20
+        specifier: ^3.1.10
+        version: 3.1.10
+      esbuild:
+        specifier: ^0.25.3
+        version: 0.25.3
       pkg:
         specifier: ^5.8.1
         version: 5.8.1
